@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=java.lang.String\ choose()
+comment1.text=\r\n\ Ask\ for\ and\ return\ a\ string\r\n
+comment2.params=cpu
+comment2.target=java.lang.String\ setName(boolean)
+comment2.text=\r\n\ Ask\ for\ player\ name\ if\ cpu\ \=\ false.\r\n\ If\ cpu\ \=\ true,\ return\ "CPU"\r\n
+numComments=3

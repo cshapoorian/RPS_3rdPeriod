@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=p1\ p2
+comment1.target=int\ win(Player,\ Player)
+comment1.text=\r\n\ Return\ 1\ if\ p1\ wins,\ -1\ if\ p2\ wins\ 0\ if\ tie\r\n
+comment2.params=p1\ p2
+comment2.target=void\ play(Player,\ Player)
+comment2.text=\r\n\ Players\ will\ make\ choices,\ evaluate\ choices\ &\ update\ score\r\n
+comment3.params=
+comment3.target=boolean\ end()
+comment3.text=\r\n\ Ask\ if\ player\ wants\ to\ continue,\ return\ boolean\ response\r\n
+comment4.params=p
+comment4.target=double\ score(Player)
+comment4.text=\r\n\ Updates\ the\ score\ of\ the\ player\ p\ based\ on\ win.\r\n
+numComments=5
